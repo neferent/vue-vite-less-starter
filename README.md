@@ -1,14 +1,14 @@
-=== Vue 3 + Vite + Less Wordpress Theme Starter ===
-Contributors: neferent
+# Vue 3 + Vite + Less Wordpress Theme Starter
+Author: neferent
 Tested up to: Wordpress 6.4.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description ==
+## Description
 
 Basic theme starter with Vite, Vue3, and Less support. Build to take advantage of Vue's capabilites for the header and footer, while leaving the content blank for use with your favourite wordpress editor.
 
-== How to use ==
+## How to use
 
 1. Make sure you have a local installation of wordpress. https://hub.docker.com/_/wordpress
 2. Clone this repo into your wordpress themes directory
